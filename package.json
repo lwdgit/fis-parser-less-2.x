@@ -1,10 +1,10 @@
 {
-    "name" : "fis-parser-less-2.x",
-    "description" : "A parser for fis to compile less(v2.x) file.",
+    "name" : "reasy-parser-less",
+    "description" : "A parser for reasy to compile less file.",
     "version" : "0.1.4",
     "author" : "FIS Team <fis@baidu.com>",
     "homepage" : "https://github.com/fouber/fis-parser-less",
-    "keywords": [ "fis", "less" ],
+    "keywords": [ "fis", "less", "reasy"],
     "license": "MIT",
     "main" : "index.js",
     "engines" : {
@@ -16,6 +16,6 @@
     },
     "scripts" : {},
     "dependencies" : {
-        "less" : "2.5.0"
+        "less" : ">=2.5.0"
     }
 }
